@@ -1,0 +1,5 @@
+======================================================
+UPDATES               2-18-2020 By: Michael Shalapskiy
+======================================================
++ Tiles/Furnitures/Walls/Floors/Windows/Doors - Size was doubled from x32 to x64 size based
++ Items - Size was doubled from x16 to x32 size based
