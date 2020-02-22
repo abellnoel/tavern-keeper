@@ -62,7 +62,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "720",
+            "value": "1024",
             "varName": "maxWindowSize",
             "varType": 0
         },
@@ -76,7 +76,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "384",
+            "value": "640",
             "varName": "minWindowSize",
             "varType": 0
         },
@@ -90,7 +90,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "32",
+            "value": "64",
             "varName": "scaleFactor",
             "varType": 0
         }
