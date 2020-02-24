@@ -511,14 +511,6 @@
             }
         },
         {
-            "Key": "d8640983-1082-4af4-9f25-131bc0d06adf",
-            "Value": {
-                "id": "6e907086-a0e8-4f69-8f12-882aae053fa0",
-                "resourcePath": "objects\\obj_furniture\\obj_furniture.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "dc03ea16-820b-4d5f-adc2-83341e42ea1f",
             "Value": {
                 "id": "8230a5e1-f008-42bb-a794-a1594cbd66d8",
