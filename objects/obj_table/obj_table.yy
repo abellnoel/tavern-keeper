@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_table",
     "eventList": [
-        
+        {
+            "id": "aea79faf-5ba6-4e62-b679-9c135cf3a1ff",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "9eb9d2a4-5ab3-4808-b8f7-6c1b758f6ba6"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -22,7 +31,78 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "4ab57735-20a7-4697-8bce-74b8e5c1cc04",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "4",
+            "varName": "chairs",
+            "varType": 0
+        },
+        {
+            "id": "ad971533-0322-40d6-8933-5aff505d254a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "noone",
+            "varName": "chair1",
+            "varType": 5
+        },
+        {
+            "id": "29cfc095-3910-4d0c-a252-3791d5ff48b9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "noone",
+            "varName": "chair2",
+            "varType": 5
+        },
+        {
+            "id": "b66f7b1d-1583-4c17-9d99-b192fac5b402",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "noone",
+            "varName": "chair3",
+            "varType": 5
+        },
+        {
+            "id": "27e4d15a-ee8c-453e-b433-f1405fc62f50",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "noone",
+            "varName": "chair4",
+            "varType": 5
+        }
+    ],
     "solid": true,
     "spriteId": "f8d76064-ff93-4f5e-b25c-8a42288e032e",
     "visible": true
