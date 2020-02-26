@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "5075882c-ba8e-4994-b2bd-92e4563a731e",
+            "Value": {
+                "id": "2f4a20ef-bd6b-4f3d-a182-ec65194e2000",
+                "resourcePath": "objects\\obj_rug\\obj_rug.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "577ab332-04c5-438b-a51e-b48f5ca231eb",
             "Value": {
                 "id": "84464f44-15fd-4a53-8a95-28fe83635321",
@@ -476,6 +484,14 @@
                 "id": "7180295e-9479-4ebf-a34d-fa8a472254e6",
                 "resourcePath": "views\\a9809e38-5cd4-458e-bd5a-160b4a7926ac.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "aa8af9f9-b243-47d3-851a-dd01418e4146",
+            "Value": {
+                "id": "67a667b4-40b0-4c16-ac68-dee225b0ffcc",
+                "resourcePath": "sprites\\spr_rugTEMP\\spr_rugTEMP.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

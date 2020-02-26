@@ -13,6 +13,16 @@
             "enumb": 0,
             "eventtype": 0,
             "m_owner": "d98b024d-7621-410d-8190-394cefb37227"
+        },
+        {
+            "id": "305bcaf8-72ab-4219-b92b-0108658729e6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "d98b024d-7621-410d-8190-394cefb37227"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -32,7 +42,62 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        
+        {
+            "id": "ce0ac163-9972-411a-9eea-276edd447562",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "2",
+            "varName": "spd",
+            "varType": 0
+        },
+        {
+            "id": "fbee3e3b-d114-4e62-8efb-d56d222bbf1e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": ".5",
+            "varName": "moveOffset",
+            "varType": 0
+        },
+        {
+            "id": "e7e8b224-aece-4a30-81f7-acfbef459998",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "300",
+            "varName": "spawnOffset",
+            "varType": 0
+        },
+        {
+            "id": "8e695bca-533c-44e1-8e73-24284c364bf9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "50",
+            "varName": "feetOffset",
+            "varType": 0
+        }
     ],
     "solid": false,
     "spriteId": "bced98cc-458b-40d0-bceb-f55829844e5e",
