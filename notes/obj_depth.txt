@@ -1,0 +1,2 @@
+List of object depths for reference, objects with lower depth numbers appear above higher depth numbers
+obj_pointer = -1, wanted to be over everything

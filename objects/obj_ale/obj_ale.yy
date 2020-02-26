@@ -1,14 +1,14 @@
 {
-    "id": "0015e2f2-9945-4cf5-86e8-b92f0a50a109",
+    "id": "7f7f5a31-c891-45bc-974b-6c615718aa0b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_sidechair",
+    "name": "obj_ale",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "d5f99860-0894-4e2c-b93d-16a6ba8b3cc3",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -22,10 +22,8 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        
-    ],
+    "properties": null,
     "solid": false,
-    "spriteId": "5bece100-ae9d-42d4-9778-e9d9c59b97e7",
+    "spriteId": "b35efcf6-7bb9-4884-b87d-d003374000e8",
     "visible": true
 }

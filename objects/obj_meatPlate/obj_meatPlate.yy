@@ -1,14 +1,14 @@
 {
-    "id": "0015e2f2-9945-4cf5-86e8-b92f0a50a109",
+    "id": "9fd2b5fb-8307-4fdb-9907-b5379369ba01",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_sidechair",
+    "name": "obj_meatPlate",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "d5f99860-0894-4e2c-b93d-16a6ba8b3cc3",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -22,10 +22,8 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        
-    ],
+    "properties": null,
     "solid": false,
-    "spriteId": "5bece100-ae9d-42d4-9778-e9d9c59b97e7",
+    "spriteId": "32a39343-0939-489f-a37e-04a959a1d78b",
     "visible": true
 }

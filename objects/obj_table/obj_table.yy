@@ -13,6 +13,16 @@
             "enumb": 0,
             "eventtype": 0,
             "m_owner": "9eb9d2a4-5ab3-4808-b8f7-6c1b758f6ba6"
+        },
+        {
+            "id": "473a175e-26aa-478c-a19b-28d2fcb68f35",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "9eb9d2a4-5ab3-4808-b8f7-6c1b758f6ba6"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -47,7 +57,21 @@
             "varType": 0
         },
         {
-            "id": "ad971533-0322-40d6-8933-5aff505d254a",
+            "id": "9363abae-e0c1-4d95-9556-f1012ed8371a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "20",
+            "varName": "chairDistance",
+            "varType": 0
+        },
+        {
+            "id": "435497aa-5f38-4e00-8163-272f91742f77",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -61,7 +85,7 @@
             "varType": 5
         },
         {
-            "id": "29cfc095-3910-4d0c-a252-3791d5ff48b9",
+            "id": "fc9f559f-6d9f-4c90-a01a-0daf28b4bb36",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -75,7 +99,7 @@
             "varType": 5
         },
         {
-            "id": "b66f7b1d-1583-4c17-9d99-b192fac5b402",
+            "id": "09a5d841-0736-45a6-b107-f47c1fbfe90d",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -89,7 +113,7 @@
             "varType": 5
         },
         {
-            "id": "27e4d15a-ee8c-453e-b433-f1405fc62f50",
+            "id": "93186b37-0e20-48e7-8efc-99c525b76fd7",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
