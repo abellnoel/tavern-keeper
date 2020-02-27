@@ -535,6 +535,14 @@
             }
         },
         {
+            "Key": "b3645ab7-c3a6-4bd1-ad5d-ec0ac8780568",
+            "Value": {
+                "id": "263f462a-9ef8-464d-a8ba-54cf787c32c9",
+                "resourcePath": "objects\\obj_TESTINGCONTROLLER\\obj_TESTINGCONTROLLER.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b4171607-2cc7-4a6f-8058-15d994b657dc",
             "Value": {
                 "id": "8f9d4822-216f-4356-a301-983946e7e25f",
