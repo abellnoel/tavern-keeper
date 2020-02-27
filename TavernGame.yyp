@@ -639,6 +639,22 @@
             }
         },
         {
+            "Key": "d3faa32b-2f7e-4e91-8813-92a65ce0a386",
+            "Value": {
+                "id": "c8eb54a6-3984-4db8-80fb-87e1b46eb479",
+                "resourcePath": "objects\\obj_customerPointer\\obj_customerPointer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d4ef8fa2-8bf2-4726-b682-7d484fed5a1a",
+            "Value": {
+                "id": "008fda05-862f-48d7-a255-dfde6c3e72ec",
+                "resourcePath": "sprites\\spr_customerPointer\\spr_customerPointer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d57574b5-2532-4084-b651-e662a806f99b",
             "Value": {
                 "id": "63e3089e-b092-4da6-afcd-8da35c93bf94",

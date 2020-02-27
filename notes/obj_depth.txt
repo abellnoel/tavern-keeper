@@ -1,4 +1,5 @@
 List of object depths for reference, objects with lower depth numbers appear above higher depth numbers
-obj_pointer = -100, wanted to be over everything
+obj_pointer = -100, wanted to be over everything minus customer pointer
+obj_customerPointer = -101, over everything
 obj_rug = 100, wanted to be below entering customers always
 obj_customer = -50, wanted over most objects except pointer

@@ -83,6 +83,20 @@
             "value": "300",
             "varName": "spawnOffset",
             "varType": 0
+        },
+        {
+            "id": "22dd97a1-a217-40ab-8342-f3f4dd46b5d5",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "42",
+            "varName": "pointerOffset",
+            "varType": 0
         }
     ],
     "solid": false,
