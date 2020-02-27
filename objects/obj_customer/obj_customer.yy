@@ -83,20 +83,6 @@
             "value": "300",
             "varName": "spawnOffset",
             "varType": 0
-        },
-        {
-            "id": "8e695bca-533c-44e1-8e73-24284c364bf9",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "50",
-            "varName": "feetOffset",
-            "varType": 0
         }
     ],
     "solid": false,

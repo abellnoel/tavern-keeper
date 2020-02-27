@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_rug",
     "eventList": [
-        
+        {
+            "id": "c26314e4-40cf-4802-98eb-11abd91abdf1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "5075882c-ba8e-4994-b2bd-92e4563a731e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
