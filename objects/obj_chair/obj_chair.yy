@@ -13,6 +13,16 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "d5f99860-0894-4e2c-b93d-16a6ba8b3cc3"
+        },
+        {
+            "id": "8e80a8f9-287e-41f5-a008-470c9d399222",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "d5f99860-0894-4e2c-b93d-16a6ba8b3cc3"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -45,6 +55,20 @@
             "value": "0",
             "varName": "occupied",
             "varType": 3
+        },
+        {
+            "id": "966e7b56-eafb-43d4-b962-f547cbb13dfb",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "chairDirection",
+            "varType": 0
         }
     ],
     "solid": false,
