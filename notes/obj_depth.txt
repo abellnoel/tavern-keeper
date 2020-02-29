@@ -5,3 +5,4 @@ obj_rug = 100, wanted to be below entering customers always
 obj_customer = -50, wanted over most objects except pointer, -44 when top position of table
 obj_chair(s) = -40, wanted under customer when customer is seated at top position since its depth changes to have table be over them
 obj_table = -45, wanted under customer except for one condition
+obj_player = -50, same as customer 
