@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "5c9b1096-95a5-4dd8-946b-2751503b52ec",
+            "Value": {
+                "id": "197de6e9-15a9-448b-a6a3-7908b63a805e",
+                "resourcePath": "sprites\\spr_customerStandingB\\spr_customerStandingB.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5db8f7d1-bba5-4c4a-b361-12ce81889e82",
             "Value": {
                 "id": "6a1cdbae-4c39-4685-bfaf-5d8f064cd388",
@@ -586,7 +594,7 @@
             "Key": "bced98cc-458b-40d0-bceb-f55829844e5e",
             "Value": {
                 "id": "0f0f3850-78aa-4424-bfd9-6d422f0d6963",
-                "resourcePath": "sprites\\sprite_customerStanding\\sprite_customerStanding.yy",
+                "resourcePath": "sprites\\spr_customerStanding\\spr_customerStanding.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -743,6 +751,14 @@
             }
         },
         {
+            "Key": "ea49dd91-fa5f-422a-b064-97f0a660d443",
+            "Value": {
+                "id": "253bc34e-1e31-4808-b547-c30b16a62d31",
+                "resourcePath": "sprites\\spr_customerStandingG\\spr_customerStandingG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ec5e338d-f26c-4390-a373-d0b65fde069c",
             "Value": {
                 "id": "eee1a0d8-ccc6-4abc-b75b-a81953665d0b",
@@ -811,6 +827,14 @@
             "Value": {
                 "id": "3d37bae9-8bec-459f-8401-1d168ce242ee",
                 "resourcePath": "sprites\\spr_floorAndWallsTileset\\spr_floorAndWallsTileset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "feee58af-ac67-4745-9266-2cb202ec5d0c",
+            "Value": {
+                "id": "33ce3f2a-cdc6-4624-bf40-a9744d9d6b7a",
+                "resourcePath": "sprites\\spr_customerStandingR\\spr_customerStandingR.yy",
                 "resourceType": "GMSprite"
             }
         }
