@@ -89,6 +89,20 @@
             "value": ".5",
             "varName": "clickOffset",
             "varType": 0
+        },
+        {
+            "id": "ab183ab8-b4b3-4a37-b135-174669164df0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "25",
+            "varName": "serveDistance",
+            "varType": 0
         }
     ],
     "solid": false,
