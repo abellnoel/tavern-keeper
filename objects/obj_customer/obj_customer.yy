@@ -180,7 +180,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "45",
+            "value": "30",
             "varName": "patience",
             "varType": 0
         }
