@@ -90,7 +90,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "300",
+            "value": "50",
             "varName": "spawnOffset",
             "varType": 0
         },
@@ -118,7 +118,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "5",
+            "value": "30",
             "varName": "patience",
             "varType": 0
         },
