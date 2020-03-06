@@ -695,6 +695,14 @@
             }
         },
         {
+            "Key": "da6dce9f-8573-4b2a-9223-9bf3d3059e1d",
+            "Value": {
+                "id": "016652cc-35b9-4709-bf07-0b28082c9469",
+                "resourcePath": "sprites\\spr_foodBubble\\spr_foodBubble.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dc03ea16-820b-4d5f-adc2-83341e42ea1f",
             "Value": {
                 "id": "8230a5e1-f008-42bb-a794-a1594cbd66d8",
@@ -747,6 +755,14 @@
             "Value": {
                 "id": "abecc592-b693-46dc-8eef-64700da5a6b5",
                 "resourcePath": "sprites\\spr_counter\\spr_counter.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e900d6ef-2c45-4964-9c7c-2cd99e817927",
+            "Value": {
+                "id": "bd51a23f-ee42-49e4-9b7f-de4f6556b58c",
+                "resourcePath": "sprites\\spr_drinkBubble\\spr_drinkBubble.yy",
                 "resourceType": "GMSprite"
             }
         },
