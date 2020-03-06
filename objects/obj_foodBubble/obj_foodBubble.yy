@@ -4,11 +4,20 @@
     "mvc": "1.0",
     "name": "obj_foodBubble",
     "eventList": [
-        
+        {
+            "id": "22b848f5-ff49-40be-b409-ee496cbf5eb5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "511ec1bb-d15a-4d96-a03e-06b682ea4055"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "19c8ce2f-040e-443d-a368-4df0107d27c3",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
