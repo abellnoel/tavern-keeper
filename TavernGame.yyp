@@ -239,6 +239,22 @@
             }
         },
         {
+            "Key": "511ec1bb-d15a-4d96-a03e-06b682ea4055",
+            "Value": {
+                "id": "e4996e91-4d14-4e72-a4f8-fd9d1631f19f",
+                "resourcePath": "objects\\obj_foodBubble\\obj_foodBubble.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "53ceab28-5103-469a-98d0-316a48b3486d",
+            "Value": {
+                "id": "df6ac7b5-8485-4d87-935f-f78426cb8d54",
+                "resourcePath": "objects\\obj_drinkBubble\\obj_drinkBubble.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "577ab332-04c5-438b-a51e-b48f5ca231eb",
             "Value": {
                 "id": "84464f44-15fd-4a53-8a95-28fe83635321",

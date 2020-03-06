@@ -1,0 +1,250 @@
+[33mcommit 0bd1fb79ab7ec2aa4cfe376cbc64c6471bc1b919[m[33m ([m[1;36mHEAD -> [m[1;32mcustomer-food-and-drink[m[33m)[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Thu Mar 5 23:43:24 2020 -0500
+
+    FIX: Customer would walk out even after being seated
+
+[33mcommit edcbc3868486fb995fef6aef2c9ce701ec298644[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Thu Mar 5 23:36:12 2020 -0500
+
+    Customer walks out after number of seconds defined by variable patience
+
+[33mcommit c9d2a40280da72418a92100cbc4cd1e424cd9747[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Thu Mar 5 21:57:51 2020 -0500
+
+    Moved customer placement event to controller
+
+[33mcommit 45f0184fd4ef113b17fb2414c576016f441cf4ac[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Tue Mar 3 19:51:18 2020 -0500
+
+    Added customer colors, customers now randomly spawn with a certain color
+
+[33mcommit 532677c96ce6dc9209d44dbb8ab3b66afc4752b6[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Sat Feb 29 16:19:27 2020 -0500
+
+    Adjusted player pointer depth and customer positions
+
+[33mcommit 2b2e725c817957a783cd6202346cc0d012d6b4b8[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Fri Feb 28 19:16:29 2020 -0500
+
+    Updated customer sprite and corrected customer seating positions:
+    + Customer now sits facing the table in every seat
+    + Top customer is now under the table when sitting down
+
+[33mcommit 5df4c873ab3e91cdc34c06c916164d2fa2938085[m[33m ([m[1;32msit-detection-customer-spawning-and-selection[m[33m)[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Fri Feb 28 08:37:58 2020 -0500
+
+    Commit before checkout
+
+[33mcommit 3f1ba1c1767e7d49ce9b6366c1b725d75ce2e0d2[m[33m ([m[1;31morigin/sit-detection-customer-spawning-and-selection[m[33m)[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Thu Feb 27 11:13:47 2020 -0500
+
+    Fixed issue with customer seating:
+    + FIX: Customers who were still moving at the time of seating would continue moving when seated
+
+[33mcommit 2085aa0322c316b728585546467e20893c459346[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Thu Feb 27 10:43:22 2020 -0500
+
+    Changed table and customer interaction with bugfix:
+    + Table must now have available chairs for a customer to be teleported to it
+    + FIX: Customers who were already seated could be switched to when first selecting a customer waiting to be seated
+    + Created obj_TESTINGCONTROLLER to draw text for testing
+
+[33mcommit e0aa68781ca4b1ec85725991c542b29129df1dd6[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Thu Feb 27 10:28:26 2020 -0500
+
+    Tables have constantly updated chairsAvailable variable that checks each of its chair's occupied flags
+
+[33mcommit aadea0877131cfa1ea38331bad142fa167067a9f[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Wed Feb 26 21:07:07 2020 -0500
+
+    Added indicator for customer selection:
+    + Selected customer has small pointer above head
+    + Arrow tracks customer movement
+    + Arrow is destroyed when selecting another customer and re-created
+    + Can now switch selection between customers without having to deselect the first customer
+
+[33mcommit 416940ecf12405f8aefdbbfa0c3bf518c394dffc[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Wed Feb 26 19:37:23 2020 -0500
+
+    Added customer spawn functionality:
+    + (TEMP) Press E to spawn a customer
+    + Customers walk in from (320, 760) a point  below the gameroom
+    + Customers choose an initial spot to stand on the rug, if it is occupied, they will shift around until they find a free space
+    + Customers now change sprite based on walking direction
+    + Customers will randomly change direction when standing still and waiting to be seated
+    + Removed temporary text from controller
+
+[33mcommit e60dca3bcbfe57f5cf380a233388f67c610b07d3[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Wed Feb 26 13:19:28 2020 -0500
+
+    Customers walk in from buttom entrance randomly onto rug:
+    + Issue: Customers currently often overlap
+
+[33mcommit b34f641cd34619a0fdab035afd075228273642ff[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Wed Feb 26 11:33:06 2020 -0500
+
+    Chair automatically checks for seated customers on its own collision mask in real time
+
+[33mcommit 036fc2d405b4cbd9dd5c96fe136466187b045fb8[m
+Merge: fdc4468 06d1391
+Author: Noel Abellanosa <59884349+nabellan1@users.noreply.github.com>
+Date:   Tue Feb 25 21:49:34 2020 -0500
+
+    Merge pull request #1 from mecheve1/noel
+    
+    Added functionality for customer table interaction
+
+[33mcommit 06d1391e0e5585c622ddc8b582bc9514b3f2dd47[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Tue Feb 25 21:40:44 2020 -0500
+
+    Added additional customer table functionality:
+    + Tables now have 4 variables (chair1 ... chair4), manually set in the game room
+    + Each chair has a boolean flag variable occupied
+    + When a customer collides with table, the table will check each of its seats for a vaccancy and if there is one, it will teleport that customer there
+    + Currently, chair's occupied flag is changed in the table/customer collision, will change this for chair to detect customer collision and update in realtime
+
+[33mcommit b37f4a63b5d22216f6b51d7c2ecca685d4759dbe[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Tue Feb 25 20:38:05 2020 -0500
+
+    Initial design for room layout
+
+[33mcommit fdc44684f30c90863c40ceea18328a9acef0f55c[m[33m ([m[1;31morigin/Michael[m[33m)[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Sun Feb 23 21:11:21 2020 -0500
+
+    Added some customer functionality:
+    + obj_customer added with temporary sprite
+    + obj_customer variable seatable, default true
+    + Player can select and deselect the same customer with left click
+    + Temporary text draw shows when a customer is selected
+    + With a customer selected, player can click a table and (for now) customer teleports on top of table
+    + Once a customer is seated, seatable for that customer is set to false
+    + Prevent window resizing when in fullscreen (caused wierd scaling once you toggle back out to fullscreen)
+
+[33mcommit 0059bd1a5ecbaaaf36cbd7f13ae22c27071eef93[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Sun Feb 23 19:33:48 2020 -0500
+
+    Changed collision and movement:
+    + Removed furniture temp object
+    + Player will now refuse to move into anything marked as solid (still gets a little stuck)
+    + Modified table collision mask to allow objects on bottom half to appear as if they are standing over table
+    + Modified pointer with bobbing animation
+
+[33mcommit 026e18a019526d2aed78cf9a263e4817c3493d27[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Sat Feb 22 17:25:22 2020 -0500
+
+    Resized game and other graphical changed
+    + game resized to 640x640 to acommodate changes to 64x64
+    + changed window maximum resizing to 1024 (previously 720)
+    + changed window minimum resizing to 640 (previously 384)
+    + window now scales up or down by 64 (previously 34)
+    + made default background regular tiled floor
+
+[33mcommit ca2a65a09908b1d14adabc8a623c95b45ab7b63b[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Sat Feb 22 17:12:45 2020 -0500
+
+    Added most sprites, did not include walls or floors as those could be tiled
+
+[33mcommit b3799716ddc39460f60d455920380e53b5da2595[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Sat Feb 22 16:47:00 2020 -0500
+
+    Added resources and functionality
+    + spr_pointer
+    + obj_pointer (for click to move)
+    + pointer tracks last location player clicked to move, removed when clicking new location or reaching location
+
+[33mcommit e7be9323bf90f92f6f2b090d2616a3c202ecd27c[m
+Author: nabellan1 <59884349+nabellan1@users.noreply.github.com>
+Date:   Sat Feb 22 16:34:59 2020 -0500
+
+    Tried to add counter tileset again (incorrect sizing)
+
+[33mcommit 7129bf5585642df1d055b544fc44c208f08eec7d[m
+Author: mecheve1 <33356601+mecheve1@users.noreply.github.com>
+Date:   Mon Feb 17 16:22:59 2020 -0500
+
+    Added Counter tilesheet
+    
+    + Counter Sprite
+    + Counter Tilesheet
+
+[33mcommit 08730a12044245440316be43a2263a712fbca14b[m[33m ([m[1;31morigin/music[m[33m, [m[1;31morigin/art[m[33m)[m
+Author: Noel Abellanosa <nabellan@uncc.edu>
+Date:   Sun Feb 16 02:49:16 2020 -0500
+
+    Changelog
+    ---------------
+    SPRITES AND TILES IN GAMEMAKER
+    - Added player sprites
+    - Added SOME of the new furniture sprites
+    - Added new floor and wall tileset
+    - Created subfolders for sprites
+    ---------------
+    OBJECTS
+    obj_player:
+    - Created basic (right)click to move functionality (no pathfinding)
+       > Speed (spd) can be adjusted in variable definitions
+    - Player animations change based on movement direction
+    - Player animations stop when standing still
+    - Player stops moving when colliding with blue placeholder furniture object
+    
+    obj_furniture:
+    - Placeholder to maybe use as the parent for all furniture objects
+    - obj_player currently has collision interactions with this object
+    - Marked as solid, read this can potentially be iffy but it works for now
+    
+    obj_controller:
+    - Created for general control of game
+    
+    Other:
+    - Added chair, table, and sidechair objects
+    - Deleted objects that used old sprites
+    ---------------
+    GENERAL CHANGES
+    - Changed room size to 384x384, square window, scales from 32x32
+    - Key press "+"
+       > Increases window size, adds 32 to both length and width
+       > Max of 720 at the moment, can be changed in variable definitions
+    - Key press "-"
+       > Decreases window size, subtracts 32 to both length and width
+       > Min of 384 (current room size) at the moment, can be changed in variable definitions
+    - Key press "F11"
+       > Toggles fullscreen
+
+[33mcommit e46bed1a5fdfaa66776bd916720c151f32ee653c[m
+Author: Noel Abellanosa <nabellan@uncc.edu>
+Date:   Fri Feb 14 09:50:48 2020 -0500
+
+    Added the sprites Michael uploaded to drive into the assets folder
+
+[33mcommit 03198985e58f1963eb5b3221fb03efc22dec5ed9[m
+Author: Noel Abellanosa <nabellan@uncc.edu>
+Date:   Fri Feb 14 09:41:20 2020 -0500
+
+    Created an assets folder for raw image files, uploaded WIll's directional character animations. Best played around 5fps in sprite editor.
+
+[33mcommit c3fa9618b72d3ab492aa6d240a97ba75a0897089[m
+Author: mecheve1 <mecheve1@uncc.edu>
+Date:   Wed Feb 12 08:52:56 2020 -0500
+
+    initial commit
