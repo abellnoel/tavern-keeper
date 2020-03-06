@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "19c8ce2f-040e-443d-a368-4df0107d27c3",
+            "Value": {
+                "id": "12e29dee-6ebb-4684-a4ef-8579ef331f7f",
+                "resourcePath": "objects\\obj_angryBubble\\obj_angryBubble.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1ac1c2d6-bf72-44b8-838e-06b272c62d35",
             "Value": {
                 "id": "ee21d4fd-52cb-4606-bd0a-0cf59eb291f1",
@@ -115,6 +123,14 @@
             "Value": {
                 "id": "1098d397-1e0b-4fde-a92d-ac54a5a6ff88",
                 "resourcePath": "sprites\\spr_WillDownWalk\\spr_WillDownWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2d12a2f6-ca9d-4ee1-834f-f43ae7e3c94c",
+            "Value": {
+                "id": "72e9e9b1-0455-41c1-abff-6c64409f4836",
+                "resourcePath": "sprites\\spr_angryTEMP\\spr_angryTEMP.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -498,7 +514,7 @@
             "Key": "aa8af9f9-b243-47d3-851a-dd01418e4146",
             "Value": {
                 "id": "67a667b4-40b0-4c16-ac68-dee225b0ffcc",
-                "resourcePath": "sprites\\spr_rugTEMP\\spr_rugTEMP.yy",
+                "resourcePath": "sprites\\spr_rug\\spr_rug.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -555,6 +571,14 @@
             "Value": {
                 "id": "8f9d4822-216f-4356-a301-983946e7e25f",
                 "resourcePath": "sprites\\spr_webBottomRight\\spr_webBottomRight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b7a8deb0-fe95-4c2d-9f43-19914eff18f6",
+            "Value": {
+                "id": "923f73c7-89a3-4a8d-9aa0-f99cf8bb5a9a",
+                "resourcePath": "sprites\\spr_customerStandingO\\spr_customerStandingO.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -651,6 +675,14 @@
             "Value": {
                 "id": "66ccd195-81c6-4fc4-8c09-3cd4f9f43c24",
                 "resourcePath": "sprites\\spr_counterSmallWide\\spr_counterSmallWide.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d2866d31-635e-41a6-9c0c-e4cbfb9ad3e8",
+            "Value": {
+                "id": "084c1334-91e2-4fa2-b545-80520b00d7de",
+                "resourcePath": "sprites\\spr_customerStandingP\\spr_customerStandingP.yy",
                 "resourceType": "GMSprite"
             }
         },

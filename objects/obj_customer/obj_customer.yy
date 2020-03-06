@@ -23,6 +23,16 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "d98b024d-7621-410d-8190-394cefb37227"
+        },
+        {
+            "id": "f4b3c26b-9c7b-4a75-bff2-4ea8f43ebeab",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "d98b024d-7621-410d-8190-394cefb37227"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -96,6 +106,62 @@
             "resourceFilter": 1023,
             "value": "42",
             "varName": "pointerOffset",
+            "varType": 0
+        },
+        {
+            "id": "e44d9f13-bbb9-451f-904a-5cd7e368c7b5",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "5",
+            "varName": "patience",
+            "varType": 0
+        },
+        {
+            "id": "b1db5e71-84b0-45b5-b0b4-6528a4d4de5d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "wait",
+            "varType": 0
+        },
+        {
+            "id": "a37fd2c5-eddf-4e28-9b05-226ec9129e26",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "noone",
+            "varName": "bubble",
+            "varType": 5
+        },
+        {
+            "id": "de930ca2-c796-4e89-99aa-a0bd2788259e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "100",
+            "varName": "deleteOffset",
             "varType": 0
         }
     ],

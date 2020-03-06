@@ -1,6 +1,10 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 2BCE083E
-/// @DnDArgument : "code" "//temporary spawn customers key$(13_10)instance_create_layer(320, 760, "Instances", obj_customer);"
+/// @DnDArgument : "code" "//temporary spawn customers key$(13_10)//temporary random color for customers$(13_10)customerColor = [spr_customerStanding, spr_customerStandingR, spr_customerStandingG, spr_customerStandingB, spr_customerStandingP, spr_customerStandingO];$(13_10)colorIndex = irandom(array_length_1d(customerColor) - 1);$(13_10)spawned = instance_create_layer(320, 760, "Instances", obj_customer);$(13_10)spawned.sprite_index = customerColor[colorIndex];"
 //temporary spawn customers key
-instance_create_layer(320, 760, "Instances", obj_customer);
+//temporary random color for customers
+customerColor = [spr_customerStanding, spr_customerStandingR, spr_customerStandingG, spr_customerStandingB, spr_customerStandingP, spr_customerStandingO];
+colorIndex = irandom(array_length_1d(customerColor) - 1);
+spawned = instance_create_layer(320, 760, "Instances", obj_customer);
+spawned.sprite_index = customerColor[colorIndex];
