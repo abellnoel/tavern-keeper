@@ -53,6 +53,16 @@
             "enumb": 2,
             "eventtype": 2,
             "m_owner": "d98b024d-7621-410d-8190-394cefb37227"
+        },
+        {
+            "id": "9279b53e-bf27-4f9a-b7e8-9c4acb73c5c7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 3,
+            "eventtype": 2,
+            "m_owner": "d98b024d-7621-410d-8190-394cefb37227"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -129,20 +139,6 @@
             "varType": 0
         },
         {
-            "id": "b1db5e71-84b0-45b5-b0b4-6528a4d4de5d",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "10",
-            "varName": "wait",
-            "varType": 0
-        },
-        {
             "id": "a37fd2c5-eddf-4e28-9b05-226ec9129e26",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -171,6 +167,20 @@
             "varType": 0
         },
         {
+            "id": "b1db5e71-84b0-45b5-b0b4-6528a4d4de5d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "wait",
+            "varType": 0
+        },
+        {
             "id": "37f5deab-2d1e-45af-85d7-087e4b5ed796",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -182,6 +192,20 @@
             "resourceFilter": 1023,
             "value": "5",
             "varName": "patience",
+            "varType": 0
+        },
+        {
+            "id": "5f689835-5985-4084-9c8a-af5c92dee955",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "15",
+            "varName": "stay",
             "varType": 0
         }
     ],
