@@ -163,6 +163,20 @@
             "value": "64",
             "varName": "scaleFactor",
             "varType": 0
+        },
+        {
+            "id": "dcf3cb93-f86b-49ca-8914-21b539ccdebf",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "300",
+            "varName": "room_Time",
+            "varType": 1
         }
     ],
     "solid": false,
