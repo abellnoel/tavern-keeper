@@ -783,6 +783,14 @@
             }
         },
         {
+            "Key": "ca887e05-7a26-4d3c-be1f-288e757917ef",
+            "Value": {
+                "id": "5af64d45-377e-49c5-b3ab-4c6d1f205c9b",
+                "resourcePath": "sprites\\spr_musicIcon\\spr_musicIcon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cac18085-0433-4aef-b4ba-98555b0c0934",
             "Value": {
                 "id": "cb191746-b7e9-4541-8cb2-c30493c38e75",
@@ -908,6 +916,14 @@
                 "id": "6dde1b1e-f0f1-4c7f-a50d-dd0bd7a24a4e",
                 "resourcePath": "sprites\\spr_webTopRight\\spr_webTopRight.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e73adab4-8e8f-4aa5-a195-0d7df02d486c",
+            "Value": {
+                "id": "0808311d-173f-4660-bc07-4fdec7ccccd1",
+                "resourcePath": "objects\\obj_MusicController\\obj_MusicController.yy",
+                "resourceType": "GMObject"
             }
         },
         {
