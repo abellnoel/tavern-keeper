@@ -535,6 +535,14 @@
             }
         },
         {
+            "Key": "92034465-6d87-4768-9795-13f13467e821",
+            "Value": {
+                "id": "b0125892-0b3f-4cb6-8bca-40d8e4825bd7",
+                "resourcePath": "fonts\\font_midevil\\font_midevil.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "94d9f932-2c05-4cb8-96e2-1304bf19931c",
             "Value": {
                 "id": "3c386b59-5e8a-4f67-b7f6-cf475132cff1",
