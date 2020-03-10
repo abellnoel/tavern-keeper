@@ -231,6 +231,20 @@
             "value": "35",
             "varName": "foodDrinkSpawnOffset",
             "varType": 0
+        },
+        {
+            "id": "e4071caa-b565-4a8f-b093-be9c656e8c33",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "\"yellow\"",
+            "varName": "color",
+            "varType": 2
         }
     ],
     "solid": false,
