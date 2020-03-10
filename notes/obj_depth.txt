@@ -8,3 +8,5 @@ obj_table = -45, wanted under customer except for one condition
 obj_player = -50, same as customer 
 obj_angryBubble = -99, above all except pointers
 obj_solidNoWalkSpace = -98
+obj_meatPlate = -49; //below customer, above table
+obj_ale = -49; //below customer, above table

@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_meatPlate",
     "eventList": [
-        
+        {
+            "id": "fd082624-0312-49fc-8c8e-81c0b7467bac",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "9fd2b5fb-8307-4fdb-9907-b5379369ba01"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

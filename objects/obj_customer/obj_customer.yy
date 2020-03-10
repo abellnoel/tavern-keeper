@@ -217,6 +217,20 @@
             "value": "15",
             "varName": "stay",
             "varType": 0
+        },
+        {
+            "id": "30ebc441-de92-4d18-a81d-200e11a07157",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "35",
+            "varName": "foodDrinkSpawnOffset",
+            "varType": 0
         }
     ],
     "solid": false,
