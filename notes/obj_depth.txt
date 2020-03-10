@@ -7,3 +7,4 @@ obj_chair(s) = -40, wanted under customer when customer is seated at top positio
 obj_table = -45, wanted under customer except for one condition
 obj_player = -50, same as customer 
 obj_angryBubble = -99, above all except pointers
+obj_solidNoWalkSpace = -98
