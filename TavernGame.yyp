@@ -967,6 +967,14 @@
             }
         },
         {
+            "Key": "d02819b2-7f4b-47bb-908a-05fc66d0f607",
+            "Value": {
+                "id": "cb289e3d-d53b-471c-9a93-0053b666a31c",
+                "resourcePath": "rooms\\roomTavern3\\roomTavern3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "d25c5b8f-e751-4aad-8c82-7215f1ad7913",
             "Value": {
                 "id": "66ccd195-81c6-4fc4-8c09-3cd4f9f43c24",
