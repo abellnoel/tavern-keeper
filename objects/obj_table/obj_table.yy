@@ -135,6 +135,20 @@
             "value": "noone",
             "varName": "chair4",
             "varType": 5
+        },
+        {
+            "id": "bb23833d-fe32-4f90-930a-de82fd16bf2c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "50",
+            "varName": "searchDistance",
+            "varType": 0
         }
     ],
     "solid": false,
