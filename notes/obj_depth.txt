@@ -10,3 +10,6 @@ obj_angryBubble = -99, above all except pointers
 obj_solidNoWalkSpace = -98
 obj_meatPlate = -49; //below customer, above table
 obj_ale = -49; //below customer, above table
+obj_HowToPlayPanel = -900 //above everything
+obj_exitIcon = -901 above how to play object
+obj_arrowIcon = -902   above how to play object
