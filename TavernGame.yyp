@@ -935,6 +935,14 @@
             }
         },
         {
+            "Key": "ca881196-a620-4258-ba36-e371c80a3a06",
+            "Value": {
+                "id": "9cd4521d-08e3-47ad-87d6-6f2629696f14",
+                "resourcePath": "objects\\obj_drinkBubblePLAYER\\obj_drinkBubblePLAYER.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ca887e05-7a26-4d3c-be1f-288e757917ef",
             "Value": {
                 "id": "5af64d45-377e-49c5-b3ab-4c6d1f205c9b",
@@ -1180,6 +1188,14 @@
                 "id": "dac4d4f6-6df0-417a-8dc5-76951e96b278",
                 "resourcePath": "sprites\\spr_tableWebbed\\spr_tableWebbed.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f59920c9-7d31-444d-bdb1-d35408e7d64c",
+            "Value": {
+                "id": "f43d6f64-58e1-42f4-a266-64569cf1f20c",
+                "resourcePath": "objects\\obj_foodBubblePLAYER\\obj_foodBubblePLAYER.yy",
+                "resourceType": "GMObject"
             }
         },
         {
