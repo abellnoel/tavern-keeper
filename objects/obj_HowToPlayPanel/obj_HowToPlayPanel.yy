@@ -5,13 +5,13 @@
     "name": "obj_HowToPlayPanel",
     "eventList": [
         {
-            "id": "cbd441cc-71c8-4777-bb88-7b01117fde95",
+            "id": "3b4ca1a5-d4ed-4076-b07a-d9d51ced0320",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 3,
+            "eventtype": 0,
             "m_owner": "ed691c1a-1dd5-4c27-a039-349cad6ebb1c"
         }
     ],
