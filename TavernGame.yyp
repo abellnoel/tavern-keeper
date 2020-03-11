@@ -375,6 +375,14 @@
             }
         },
         {
+            "Key": "5a5f2642-e122-4655-9cbf-98b89a0faf49",
+            "Value": {
+                "id": "fe37f8b2-9b26-4606-afdd-78947f94f90b",
+                "resourcePath": "sprites\\spr_helpIcon\\spr_helpIcon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5a6dea60-40d2-4c1a-aafc-64e1e6158d87",
             "Value": {
                 "id": "4a7b6552-3b16-4ee8-97ca-8d7232f85578",
@@ -572,6 +580,22 @@
                 "id": "25009cd7-a3f6-4674-b906-f0564f8aae8d",
                 "resourcePath": "sprites\\spr_glass\\spr_glass.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8edb7c84-0ba3-4f13-9f5a-e06243890811",
+            "Value": {
+                "id": "567bd915-619e-4786-975e-da6b97bb2293",
+                "resourcePath": "sprites\\spr_HowToPlay\\spr_HowToPlay.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8fb840ec-d78a-41ab-aa9b-1239b14df840",
+            "Value": {
+                "id": "58655431-9756-445d-aab8-aec9666b64f8",
+                "resourcePath": "objects\\obj_HelpIcon\\obj_HelpIcon.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1043,6 +1067,14 @@
             "Value": {
                 "id": "df724768-6ae2-4482-a6a7-0a307d22aac9",
                 "resourcePath": "objects\\obj_pointer\\obj_pointer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ed691c1a-1dd5-4c27-a039-349cad6ebb1c",
+            "Value": {
+                "id": "5ba8f9f5-acd2-4dea-930c-c98d6bbcceb5",
+                "resourcePath": "objects\\obj_HowToPlayPanel\\obj_HowToPlayPanel.yy",
                 "resourceType": "GMObject"
             }
         },
