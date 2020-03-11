@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 1C4B452B
-/// @DnDArgument : "code" "//if selected customer is deleted while selected, return selection to noone$(13_10)//prevents errors with having customers who walked away still selected and then trying to seat them$(13_10)if (!instance_exists(customerSelect)) { $(13_10)	customerSelect = noone;$(13_10)}$(13_10)room_Time = room_Time - (1/room_speed)$(13_10)show_time = ceil(room_Time)"
+/// @DnDArgument : "code" "//if selected customer is deleted while selected, return selection to noone$(13_10)//prevents errors with having customers who walked away still selected and then trying to seat them$(13_10)if (!instance_exists(customerSelect)) { $(13_10)	customerSelect = noone;$(13_10)}$(13_10)room_Time = room_Time - (1/room_speed)$(13_10)show_time = ceil(room_Time)$(13_10)$(13_10)//LEVEL ONE$(13_10)if (room == roomTavern) {$(13_10)	if (!initDone) {$(13_10)		spawns = spawns1;$(13_10)		startTime = 300;$(13_10)		alarm[0] = 1; //instant$(13_10)	}$(13_10)}"
 //if selected customer is deleted while selected, return selection to noone
 //prevents errors with having customers who walked away still selected and then trying to seat them
 if (!instance_exists(customerSelect)) { 
@@ -9,3 +9,12 @@ if (!instance_exists(customerSelect)) {
 }
 room_Time = room_Time - (1/room_speed)
 show_time = ceil(room_Time)
+
+//LEVEL ONE
+if (room == roomTavern) {
+	if (!initDone) {
+		spawns = spawns1;
+		startTime = 300;
+		alarm[0] = 1; //instant
+	}
+}
