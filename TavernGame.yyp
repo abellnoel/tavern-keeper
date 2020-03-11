@@ -1175,6 +1175,14 @@
             }
         },
         {
+            "Key": "fcda1a75-3b53-4119-ad27-5c9caa4d8453",
+            "Value": {
+                "id": "ba7aced1-bfc7-4fe5-8128-12f96a42c8f7",
+                "resourcePath": "sprites\\spr_creditsScreenBackground\\spr_creditsScreenBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ffdde37a-ecc3-4297-98fb-fa54bc15d4af",
             "Value": {
                 "id": "6c583586-a85a-418e-8dee-8d4ac6a8ad78",
